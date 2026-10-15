@@ -24,7 +24,6 @@ We distinguish **implemented capabilities**, **research hypotheses**, and **inde
 | Project | Focus | Repository |
 |:--|:--|:--|
 | **ReGenesis Intelligence** | Experimental cognitive architecture | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/regenesis-intelligence-v2.0) |
-| **Sentinel** | Drift monitoring, stabilization, and AI operational controls | [Solo](https://github.com/E-L-L-I-A-Tech-Collaboration/axiom-zeta-sentinel-solo) · [Teams](https://github.com/E-L-L-I-A-Tech-Collaboration/axiom-zeta-sentinel-teams) · [Sovereign](https://github.com/E-L-L-I-A-Tech-Collaboration/axiom-zeta-sentinel-sovereign) |
 | **AZxAI Navigator** | Workflow impact analysis and decision planning | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/azxai-navigator) |
 | **AI Change Radar** | Tracking vendor changes and turning them into practical briefings | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/ai-change-radar) |
 | **Quadra M.I.N.D. Sight** | Metacognitive exploration and guided reflection | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/quadra-mind-sight) |
