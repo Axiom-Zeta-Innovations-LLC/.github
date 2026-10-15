@@ -23,16 +23,12 @@ We distinguish **implemented capabilities**, **research hypotheses**, and **inde
 
 | Project | Focus | Repository |
 |:--|:--|:--|
-| **QuadraSeer Equalibra Sovereign** | Local-first intelligence, orchestration, and memory | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/quadra-seer-equalibra-sovereign) |
 | **ReGenesis Intelligence** | Experimental cognitive architecture | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/regenesis-intelligence-v2.0) |
-| **Thoth Hieromath ARC Arena** | Mathematical reasoning and abstract problem-solving research | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/thoth-hieromath-arc-arena) |
 | **Sentinel** | Drift monitoring, stabilization, and AI operational controls | [Solo](https://github.com/E-L-L-I-A-Tech-Collaboration/axiom-zeta-sentinel-solo) · [Teams](https://github.com/E-L-L-I-A-Tech-Collaboration/axiom-zeta-sentinel-teams) · [Sovereign](https://github.com/E-L-L-I-A-Tech-Collaboration/axiom-zeta-sentinel-sovereign) |
 | **AZxAI Navigator** | Workflow impact analysis and decision planning | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/azxai-navigator) |
 | **AI Change Radar** | Tracking vendor changes and turning them into practical briefings | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/ai-change-radar) |
 | **Quadra M.I.N.D. Sight** | Metacognitive exploration and guided reflection | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/quadra-mind-sight) |
 | **Hypercross Nexus** | Experimental cross-system and cryptographic software | [v0.3](https://github.com/E-L-L-I-A-Tech-Collaboration/hypercross-nexus-version-03) · [Zero Arm](https://github.com/E-L-L-I-A-Tech-Collaboration/hypercross-nexus-zero-arm) |
-| **EqualiFi Planner** | AI-assisted planning application | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/equalifi-planner) |
-| **Transcendent Recursion** | Publishing and digital storefront experiments | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/transcendent-recursion-website) |
 
 ## Principles
 
