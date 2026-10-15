@@ -7,7 +7,7 @@
 **An independent research and engineering organization exploring local-first AI, reasoning systems, machine intelligence, and trustworthy computational infrastructure.**
 
 [![Explore our work](https://img.shields.io/badge/Explore-our%20repositories-162537?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/E-L-L-I-A-Tech-Collaboration/repositories)
-[![Website](https://img.shields.io/badge/Visit-our%20website-1F826F?style=for-the-badge&logo=vercel&logoColor=white)](https://axiomzeta-innovations.com/)
+[![Website](https://img.shields.io/badge/Visit-our%20website-1F826F?style=for-the-badge&logo=vercel&logoColor=white)](https://axiomzetainnovations.com/)
 
 </div>
 
