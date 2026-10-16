@@ -34,11 +34,14 @@ We distinguish **implemented capabilities**, **research hypotheses**, and **inde
 
 | Project | Focus | Repository |
 |:--|:--|:--|
-| **ReGenesis Intelligence** | Experimental cognitive architecture | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/regenesis-intelligence-v2.0) |
-| **AZxAI Navigator** | Workflow impact analysis and decision planning | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/azxai-navigator) |
-| **AI Change Radar** | Tracking vendor changes and turning them into practical briefings | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/ai-change-radar) |
-| **Quadra M.I.N.D. Sight** | Metacognitive exploration and guided reflection | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/quadra-mind-sight) |
-| **Hypercross Nexus** | Experimental cross-system and cryptographic software | [v0.3](https://github.com/E-L-L-I-A-Tech-Collaboration/hypercross-nexus-version-03) · [Zero Arm](https://github.com/E-L-L-I-A-Tech-Collaboration/hypercross-nexus-zero-arm) |
+| **AI Change Radar** | Tracking AI vendor changes and turning them into practical SMB briefings | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/ai-change-radar) |
+| **AZxAI Navigator** | Workflow impact analysis and decision planning (companion to Radar) | [Explore →](https://github.com/Axiom-Zeta-Innovations-LLC/azxai-navigator) |
+| **Quadra M.I.N.D. Sight** | Metacognitive exploration and guided reflection — live on Google Play | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/quadra-mind-sight) |
+| **EqualiF.I. Planner** | Financial independence planner (PWA) | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/equalifi-planner) |
+| **ReGenesis Intelligence** | Experimental local-first cognitive architecture | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/regenesis-intelligence-v2.0) |
+| **Thoth Hieromath ARC Arena** | AI world-model twins playing reasoning puzzles against each other | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/thoth-hieromath-arc-arena) |
+| **Transcendent Recursion** | Writing storefront | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/transcendent-recursion-website) |
+| **Hypercross Nexus** | Experimental crypto trading platform *(private research)* | v0.3 · Zero Arm |
 
 
 ## Principles
