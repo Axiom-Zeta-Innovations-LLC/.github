@@ -41,6 +41,10 @@ We distinguish **implemented capabilities**, **research hypotheses**, and **inde
 | **ReGenesis Intelligence** | Experimental local-first cognitive architecture | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/regenesis-intelligence-v2.0) |
 | **Thoth Hieromath ARC Arena** | AI world-model twins playing reasoning puzzles against each other | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/thoth-hieromath-arc-arena) |
 | **Transcendent Recursion** | Writing storefront | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/transcendent-recursion-website) |
+| **Pazuzu API** | Twelve-station governed inference pipeline | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/pazuzu-api-version-2.0) |
+| **Convergence Form Extractor** | AI-assisted creativity studio for divergent thinking | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/convergence-form-extractor-01) |
+| **IFT Quantum Circuit Experiment** | Adaptive simplicial-manifold research prototype | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/ift-quantum-circuit-experiment) |
+| **Alchemy Factory** | Solana-first creator studio for experimental tokens | [Explore →](https://github.com/E-L-L-I-A-Tech-Collaboration/alchemy-factory) |
 | **Hypercross Nexus** | Experimental crypto trading platform *(private research)* | v0.3 · Zero Arm |
 
 
